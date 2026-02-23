@@ -1,5 +1,5 @@
 ## Hi there, I am Gregory 👋
-Second year Chemical Engineering (Computer Process Control).
+### Second year Chemical Engineering (Computer Process Control).
 <!--
 **luugregorynguyen/luugregorynguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-* I’m currently learning Machine Learning for Engineering application.
+* I’m currently learning Machine Learning for Chemical Engineering application.

@@ -1,5 +1,5 @@
 ## Hi there, I am Gregory 👋
-### Second year Chemical Engineering (Computer Process Control).
+### BSc Chemical Engineering (Computer Process Control) - UAlberta.
 <!--
 **luugregorynguyen/luugregorynguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
